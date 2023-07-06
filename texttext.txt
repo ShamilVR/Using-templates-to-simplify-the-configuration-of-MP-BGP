@@ -1,0 +1,18 @@
+Design, build and operate all facets of our next-generation network solutions, to include production on-prem, cloud, transit and backbone networks in a 24/7 environment.
+Responsible for ensuring network availability, performance and future scalability for the entire Uber platform, spanning both on-premise and Cloud environments.
+Apply your intellectual curiosity and research new technologies; resolve their practical applications within our principles and then bring it to life in our production networks.
+What the Candidate Will Do
+Provide operational level 1 and level 2 support, solving and problem remediation of Uber’s production.
+Provide production cloud networking support (AWS and GCP), interconnects, and VPC creation.
+Assist in new production deployments (rack builds/capacity adds).
+Engineers will be required to participate in regular on-call rotations.
+Collaborate with Uber teams especially Network Lifecycle and TPMs on project based work.
+New deployments, upgrades and remediation of Uber networks/data centers.
+Remote deployment Support.
+Experience leading, or chipping in to, large-scale green or brownfield architecture, designs, and deployments for global or national enterprise or Service Providers in backbone or data center network fabrics.
+Proficiency in one or more programming or scripting languages such as Go, Java, or Python with 2+ years experience.
+You are passionate about using software innovations to automate network management, improve network observability, and remediate problems.
+Shown ability to lead operational excellence through best-practice organisational change, outage mitigation and blameless post-mortem processes.
+4+ years of hands-on experience crafting, deploying and/or operating Cloud networking in either Amazon Web Services or Google Cloud Platform environments (Direct peering, VPC networking, Security controls).
+Knowledge about distributed systems such as Network/Application load balancers, DNS, VM/container networking.
+A relentless desire to build each network better than the last.

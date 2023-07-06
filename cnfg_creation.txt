@@ -1,0 +1,11 @@
+int eth 0/0
+ip add 10.10.23.2 255.255.255.252
+ip ospf 1 area 0
+no shut
+int eth0/1
+ip add 10.10.43.2 255.255.255.252
+ip ospf 1 area 0
+no shut
+int lo0
+ip add 3.3.3.3 255.255.255.255
+ip ospf 1 area 0
